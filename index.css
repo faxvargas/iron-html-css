@@ -1,0 +1,9 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(230,230,230);
+    color: rgba(0, 0, 0, 0.616);
+}
